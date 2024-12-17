@@ -11,3 +11,7 @@
 + La segunda Pull Request de Renovate actualiza el paquete body-parser de la versión 1.15 a la 1.20.
 
 + La tercera Pull Request actualiza el paquete express de la versión 4.0 a la 4.21.
+
+
+#npm
++ Ha detectado un "warning" en el fichero /app.js
