@@ -32,16 +32,18 @@
 + 3 - Cambiar código para no permitir que el usuario pueda saber las coordenadas del sistema operativo.
 
 
-#npm audit
-Adjunta una captura de pantalla del resultado y comenta las sugerencias que realiza.
+## npm audit
+**1. Adjunta una captura de pantalla del resultado y comenta las sugerencias que realiza.**
+![Detección Vulnerabilidad](resultado_imagenes/17.png)
+
 + Actualizar paquetes vulnerables: npm audit fix --force
 
-¿Cómo podrías corregir esas vulnerabilidades? Ejecuta el comando correspondiente para hacerlo pero no subas los cambios al repositorio. Haz una captura de pantalla del resultado del comando que corrige las vulnerabilidades. ¿Se han corregido?
+**¿Cómo podrías corregir esas vulnerabilidades? Ejecuta el comando correspondiente para hacerlo pero no subas los cambios al repositorio. Haz una captura de pantalla del resultado del comando que corrige las vulnerabilidades. ¿Se han corregido?**
 npm audit fix --force
+![Detección Vulnerabilidad](resultado_imagenes/18.png)
+![Detección Vulnerabilidad](resultado_imagenes/19.png)
 
-
-
-#Preguntas finales
+## Preguntas finales
 Para finalizar, contesta a las siguientes preguntas:
 
 Si quisieras detectar qué librerías o dependencias son vulnerables en tu proyecto, ¿qué herramientas de las estudiadas utilizarías?
