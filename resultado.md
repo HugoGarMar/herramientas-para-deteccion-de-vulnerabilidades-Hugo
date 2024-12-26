@@ -14,15 +14,14 @@
 ![Pull Requests 2 y 3](resultado_imagenes/5.png)
 + La primera Pull Request de Renovate es una PR de configuración inicial.
 
-+ La segunda Pull Request de Renovate actualiza el paquete body-parser de la versión 1.15 a la 1.20.
++ La segunda Pull Request de Renovate actualiza el paquete body-parser de la versión `1.15` a la `1.20`
 
-+ La tercera Pull Request actualiza el paquete express de la versión 4.0 a la 4.21.
++ La tercera Pull Request actualiza el paquete express de la versión `4.0` a la `4.21`
 
-
-#npm
+## eslint
 + Ha detectado un "warning" en el fichero /app.js
 
-#SonarQube
+##SonarQube
 
 Haz una captura de los problemas encontrados. Explica brevemente en qué consisten. Estos problemas, ¿están en el código de la aplicación o en alguna librería externa?
 
