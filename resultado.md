@@ -10,6 +10,8 @@
 + **cookie-signature:** Procesos de firmar y verificar la integridad de una cookie para asegurar que su contenido no ha sido manipulado.
 
 ## Renovate
+![Pull Requests 1](resultado_imagenes/4.png)
+![Pull Requests 2 y 3](resultado_imagenes/5.png)
 + La primera Pull Request de Renovate es una PR de configuración inicial.
 
 + La segunda Pull Request de Renovate actualiza el paquete body-parser de la versión 1.15 a la 1.20.
