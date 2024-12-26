@@ -3,7 +3,7 @@
 ## GitHub Dependabot
 ![vulnerabilidades](resultado_imagenes/2.png)
 
-**1. Haz una captura de pantalla de las vulnerabilidades mostradas y comenta brevemente las vulnerabilidades que consideres que tienen más importancia.
+**1. Haz una captura de pantalla de las vulnerabilidades mostradas y comenta brevemente las vulnerabilidades que consideres que tienen más importancia.**
 + qs: Herramienta de análisis y construcción de cadenas de consulta.
 + negotiator: Es una biblioteca de Node.js que facilita la negociación de contenido HTTP entre el cliente y el servidor, para determinar el formato, idioma, codificación y tipo de contenido.
 + hoek: Es una biblioteca de utilidades para tareas como clonación de objetos, combinación, validación y manipulación de datos.
