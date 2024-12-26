@@ -23,7 +23,8 @@
 
 ![Detección Vulnerabilidad](resultado_imagenes/6.png)
 
-##SonarQube
+## SonarQube
+![Detección Vulnerabilidad](resultado_imagenes/13.png)
 
 Haz una captura de los problemas encontrados. Explica brevemente en qué consisten. Estos problemas, ¿están en el código de la aplicación o en alguna librería externa?
 
