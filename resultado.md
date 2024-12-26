@@ -19,7 +19,9 @@
 + La tercera Pull Request actualiza el paquete express de la versión `4.0` a la `4.21`
 
 ## eslint
-+ Ha detectado un "warning" en el fichero /app.js
++ Ha detectado un "warning" en el fichero `/app.js`
+
+![Detección Vulnerabilidad](resultado_imagenes/6.png)
 
 ##SonarQube
 
