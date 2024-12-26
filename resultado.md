@@ -26,8 +26,10 @@
 ## SonarQube
 ![Detección Vulnerabilidad](resultado_imagenes/13.png)
 
-Haz una captura de los problemas encontrados. Explica brevemente en qué consisten. Estos problemas, ¿están en el código de la aplicación o en alguna librería externa?
-
+**1. Explica brevemente en qué consisten. Estos problemas, ¿están en el código de la aplicación o en alguna librería externa?**
++ 1 - Cambiar parte del código para no hacer directamente las consultas SQL desde datos controlados por el usuario
++ 2 - Cambiar código para no contruir la ruta a partir de datos controlados por el usuario
++ 3 - Cambiar código para no permitir que el usuario pueda saber las coordenadas del sistema operativo.
 
 
 #npm audit
