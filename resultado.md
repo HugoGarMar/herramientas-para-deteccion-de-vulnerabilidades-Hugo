@@ -39,19 +39,19 @@
 + Actualizar paquetes vulnerables: npm audit fix --force
 
 **¿Cómo podrías corregir esas vulnerabilidades? Ejecuta el comando correspondiente para hacerlo pero no subas los cambios al repositorio. Haz una captura de pantalla del resultado del comando que corrige las vulnerabilidades. ¿Se han corregido?**
-npm audit fix --force
++ npm audit fix --force
 ![Detección Vulnerabilidad](resultado_imagenes/18.png)
 ![Detección Vulnerabilidad](resultado_imagenes/19.png)
 
 ## Preguntas finales
 Para finalizar, contesta a las siguientes preguntas:
 
-Si quisieras detectar qué librerías o dependencias son vulnerables en tu proyecto, ¿qué herramientas de las estudiadas utilizarías?
+**1. Si quisieras detectar qué librerías o dependencias son vulnerables en tu proyecto, ¿qué herramientas de las estudiadas utilizarías?**
 + npm audit
 + Renovate
 + GitHub Dependabot
 
-Si quisieras detectar vulnerabilidades en el código propio del proyecto, ¿qué herramientas de las estudiadas utilizarías?
+**Si quisieras detectar vulnerabilidades en el código propio del proyecto, ¿qué herramientas de las estudiadas utilizarías?**
 + SonarQube
 + eslint
 + 
